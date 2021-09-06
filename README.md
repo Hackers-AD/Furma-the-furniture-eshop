@@ -1,1 +1,1 @@
-# Furma-the-furniture-eshop
+Furniture Ecommerce Shop Using Django and React
